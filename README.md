@@ -1,6 +1,13 @@
 # image_automation
-
 This is a very basic and simple program to automate image processing/customation.
+This program uses Pillow module which you might need to install with
+```
+pip install Pillow
+```
+or
+```
+pip3 install Pillow
+```
 
 ## Current Features
 Convert png formatted images to jpeg
